@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Start.unity
+    guid: 35227f856a1d066418ce476cdf3ec9b1
+  - enabled: 1
+    path: Assets/_Project/_Scenes/PlaneShooter Level1.unity
+    guid: 06172c8b36d02bc4697888de0c73d859
+  - enabled: 1
+    path: Assets/_Project/_Scenes/PlaneShooter Level2.unity
+    guid: e9c3f10a3edf94b488d1eb47a7483bd0
+  - enabled: 1
+    path: Assets/_Project/_Scenes/PlaneShooter Level3.unity
+    guid: 7ae5da20c7fb5bb408a0aaa4f6327658
+  - enabled: 1
+    path: Assets/_Project/_Scenes/PlaneShooter Level4.unity
+    guid: 554e3ec5870b48c43b4094ad1ff9f59c
+  - enabled: 1
+    path: Assets/_Project/_Scenes/PlaneShooter Level5.unity
+    guid: 4eb365e16047a2445a04aff92cfbc0cf
+  m_configObjects: {}
